@@ -257,7 +257,7 @@ header .container .col-md-7 p {
 }
 
 .card-body .pricing > h1 {
-  font-size: 10vmin;
+  font-size: 4rem;
   padding: 1em 0.5em;
 }
 
@@ -287,9 +287,10 @@ header .container .col-md-7 p {
   display: inline-block;
   border-radius: 3em;
   padding: 2vmin 4.5vmin;
-  margin: 1em;
+  margin: .5em;
+    cursor: pointer
 }
-
+ 
 .section-3 .desktop h3 {
   font-size: 4vmin;
 }
